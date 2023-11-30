@@ -83,6 +83,7 @@ table {
             margin-top: 0;
             position: sticky;
             top: 0;
+            font-weight: bold;
            
         }
         .link a{
@@ -119,9 +120,9 @@ table {
         .daftar{
             background-color: #FF1493;
             
-            width: 30%;
+            width: 450px;
             align-items: 50%;
-            margin-left: 460px;
+            margin-left: 50%;
             border-radius: 15px ;
             padding: 5px;
 
@@ -135,4 +136,7 @@ table {
             text-align: center;
             font-size: 15px;
             border: 15px;
+        }
+        form{
+            font-size: 20px;
         }
