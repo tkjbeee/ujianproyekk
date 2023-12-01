@@ -130,7 +130,7 @@ table {
         }
         .daftar{
             background-color: #FFFFFF59;
-            backdrop-filter: blur(5px);
+            backdrop-filter: blur(15px);
             padding: 5rem;
             
             
