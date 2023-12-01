@@ -95,13 +95,13 @@ table {
         }
         .blur{
             background-image: url(img/bacg.jpg);
-            height: 100%;
-            width: 100%;
+           
             background-size: 100%;
             background-repeat: no-repeat;
             justify-content: center;
             align-items: center;
             display: flex;
+            height: 100%;
             
         }
         .kontak{
